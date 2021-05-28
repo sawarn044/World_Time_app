@@ -1,6 +1,13 @@
-# world_time
+# world time
 
-A new Flutter application.
+A country time display app. Consists of best practices for passing data from one route to other. To fetch time details, it is using free World Time API
+
+## Screenshots
+<img src="https://user-images.githubusercontent.com/67902213/119992596-5982e300-bfe8-11eb-95e2-f3b4b039d9c9.png" width="400" height="800">
+<img src="https://user-images.githubusercontent.com/67902213/119992784-820add00-bfe8-11eb-9f67-4c9e46c26cd9.png" width="600" height="800">
+
+
+
 
 ## Getting Started
 
